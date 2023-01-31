@@ -1,0 +1,5 @@
+{
+  "token": "DISCORD BOT TOKEN",
+  "owners": ["USER ID"],
+  "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL"]
+}
