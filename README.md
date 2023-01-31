@@ -1,5 +1,6 @@
 # Shadow Bot
 Shadow Bot is a multi-purpose Discord bot built to in Discord JS v13.
+Shadow Development hosted Shadow Bot as a public bot for over 2 years, but as 2023 has started, we looked into the margins of the bot. They are overall negative for the company, so we have elected to publize the bot for the community.
 # Repo Information
 This repo is here to make the Shadow Bot code/files open to the public since it has been depercated by Shadow Development. All the content is completely free to use however you like. It would be appriciated if credit was noted if you use major parts of the bot; however, it is not nessisary.
 Using the [issues tab](https://github.com/Shadow-Develops/shadow-bot/issues) is welcome, but bear in mind the following:
