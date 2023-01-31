@@ -17,8 +17,11 @@ The main information (features) at listed below, but other content can be found 
 |You have the ability to fully customise the bot within your server. It is also change everything from the logs to autorole with our simple settings command.|Shadow Bot includes plethora of Moderation Commands. Use anything from warnings to bans so you can keep your server clean and maintained!|Shadow Bot has some Information Commands too allowing you to get information about users, your server, and you can make embed announcements!|Shadow Bot has tons of utilites, which are going to be very useful for your server. From saying things as the bot to pinning and unpinning messages.|
 |Ticket Commands|Reaction Roles|Fun Commands|
 |One of the best features of Shadow Bot is the ticket system. Shadow Bot has a wonderful ticket system that is almost at the same level of other ticket bots.|Shadow Bot is fully equip to handle your reaction roles. You simple run the creation command, follow the promots, and boom you have nice reaction roles!|Looking for some simple and fun commands to mess around with? Well Shadow Bot has those too! From a magic 8 ball to finging you random memes.|
-# Notes
+# Repo Notes
 Some commands and systems have been removed due to their more unique nature to which we'd like to keep internally. Some systems, such as the backup system, was also depercated when updating to Discord JS v13.
 # Support
 We do not have any priority or normal support for Shadow Bot due to it being a depercated project. Please use the issues tab or our Discord for help. Just remember that Shadow Bot is not a priority of the company so support may be slower the normal.
 - Discord: [discord.gg/fVrRa8z](https://discord.gg/fVrRa8z)
+# Note From Agent BUB (Creator)
+Some of the code is not exactly amazing, some practices are bad, and overall the code isn't crazy clean. I understand and appoligize for this; however, I didn't ever really think I would publish the code so I wrote it for me. I also have been upgrading this bot over the past like 4 years, so some of the code is better then other code due to skill gap. I am sorry in advance for some of the weird things I may have done when creating things!
+If you have questions about something contact me via the Shadow Development Discord.
